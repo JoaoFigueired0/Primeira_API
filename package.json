@@ -1,16 +1,14 @@
 {
   "name": "alura-books-server",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node app.js",
-  "dev": "nodemon app.js"
-}
-
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Joao Victor",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
   },
